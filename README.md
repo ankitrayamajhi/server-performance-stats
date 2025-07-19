@@ -20,3 +20,5 @@ A simple and portable bash script that displays basic Linux server performance s
 chmod +x server-stats.sh
 ./server-stats.sh
 
+## 🔗 Project URL
+https://github.com/ankitrayamajhi/server-performance-stats
